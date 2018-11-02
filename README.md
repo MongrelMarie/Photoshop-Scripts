@@ -1,9 +1,8 @@
 # Photoshop-Scripts
-/*
-		Webtoons Export Script
-		Created/edited by Mongie
-    Tested with Photoshop version 2015.5.2
-*/
+
+Webtoons Export Script		
+Created/edited by Mongie		
+Tested with Photoshop version 2015.5.2
 
 NOTE: It is important that your file is 800px wide for this script to format your layers properly
 
